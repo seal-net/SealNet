@@ -3,3 +3,4 @@
 jp.llbb.ml:60089:日本
 hk.llbb.ml:50089:香港
 hkt.llbb.ml:44444:香港
+hktt.llbb.ml:60089:香港
