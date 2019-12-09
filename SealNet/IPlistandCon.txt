@@ -3,7 +3,7 @@
 cc.llbb.ml:60086:美国
 chi1.llbb.ml:50089:美国
 jp.llbb.ml:60089:日本
-111.6.96.161:58089:香港
+hk.llbb.ml:58089:香港
 hkt.llbb.ml:50089:香港
 hkt.llbb.ml:44444:香港
 hktt.llbb.ml:60089:香港
